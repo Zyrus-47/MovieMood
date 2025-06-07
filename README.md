@@ -17,6 +17,12 @@
 - CSS for styling
 - Vite (for fast development)
 
+## Screenshots
+
+![Home Page](https://github.com/Zyrus-47/MovieMood/blob/main/Screenshot%202025-06-07%20191447.png?raw=true)
+![Favorites Section](https://github.com/Zyrus-47/MovieMood/blob/main/Screenshot%202025-06-07%20191557.png?raw=true)
+
+
 ## Installation
 
 1. Clone the repository:
